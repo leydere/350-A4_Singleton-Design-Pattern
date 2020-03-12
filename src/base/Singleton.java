@@ -2,7 +2,7 @@ package base;
 
 public class Singleton {
 	 
-	 private static Singleton obj=new Singleton();//Early, instance will be created at load time  
+	 private static Singleton obj=new Singleton();//Early, instance will be created at load time 
 	 
 	 private Singleton(){}  
 	   
